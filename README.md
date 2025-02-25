@@ -15,6 +15,7 @@ A list of various projects throughout the years I have worked on. This Portfolio
 
 **Good example of my skills related to physics:**
 
+-  Quantum Mechanics - Transmission Electron Microscopes: A ppt presentation I gave as a final project during my QM class. 
 -  Dipole: Requires Antenna Toolbox to run, the rad pattern of a RP-SMA antenna at 900 MHz. 
 
 **Just some projects I am actively working on for fun:**
