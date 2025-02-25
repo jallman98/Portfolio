@@ -10,6 +10,7 @@ A list of various projects throughout the years I have worked on. This Portfolio
 
 **Aerospace:** Good examples of my skills related to Aerospace Engineering
 
+-  "FRR" or Flight Readiness Review is the final document sent to NASA in the USLI competition.  This is the culmination of nearly ten thousand hours of work between myself and many other individuals who worked on this project. I saw this project begin and end, and had a hand in nearly every page on this document. 
 -  Research poster: A brief overview of my 2.5 years at UTSI.  This poster was created about halfway through my MS degree. 
 
 **Physics:** Goods example of my skills related to physics.
