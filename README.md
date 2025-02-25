@@ -9,7 +9,7 @@ A list of various projects throughout the years I have worked on. This Portfolio
 -  Research poster: A brief overview of my 2.5 years at UTSI.  This poster was created about halfway through my MS degree. 
 
 **Physics:** Goods example of my skills related to physics.
--  Dipole: Requires Antenna Toolbox to run, the rad pattern of a rubber duckie antenna at 900 MHz. 
+-  Dipole: Requires Antenna Toolbox to run, the rad pattern of a RP-SMA antenna at 900 MHz. 
 
 **Fun:** Just some projects I am actively working on. 
 
